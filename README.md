@@ -7,7 +7,7 @@ Java open source e-commerce software
 - Catalogue
 - Search
 - Checkout
-- Changing readme
+- Changing
 - Administration
 
 
